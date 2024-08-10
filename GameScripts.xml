@@ -1,11 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<AutoSplitter>
-	<Games>
-		<Game>Devil May Cry 3: Special Edition</Game>
-	</Games>
-	<URLs>
-		<URL>https://raw.githubusercontent.com/Mysterion06/DMC3Splitter/master/DMC3Splitter.asl</URL>
-	</URLs>
-	<Type>Script</Type>
-	<Description>Auto Splitting and Load Removal (By Auddy, Mysterion352, Hies)</Description>
-</AutoSplitter>
+    <Games>
+        <Game>
+            <Name>Devil May Cry 3: Special Edition</Name>
+            <ShortName>DMCSE</ShortName>
+            <ScriptURL>https://raw.githubusercontent.com/SuperTrainerM/SuperTrainer-Scripts/main/DMC3SETrainer.zip</ScriptURL>
+            <Description>Auto Splitting and Load Removal (By Auddy, Mysterion352, Hies)</Description>
+        </Game>
+        <Game>
+            <Name>Elden Ring</Name>
+            <ShortName>ER</ShortName>
+            <ScriptURL>https://github.com/SuperTrainerM/EldenRingTrainer/releases/download/1.0.0.0/EldenRingTrainer.zip</ScriptURL>
+            <Description>Auto Splitting and Load Removal</Description>
+        </Game>
+        <Game>
+            <Name>Resident Evil 4</Name>
+            <ShortName>RE4</ShortName>
+            <ScriptURL>https://raw.githubusercontent.com/SuperTrainerM/SuperTrainer-Scripts/main/RE4Trainer.zip</ScriptURL>
+            <Description>Auto Splitting and Load Removal</Description>
+        </Game>
+    </Games>
